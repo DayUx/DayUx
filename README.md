@@ -2,6 +2,9 @@
 
 [My portfolio](https://www.paulcoignac.me/)
 
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32">](https://www.linkedin.com/in/pcoignac/)
+
+
 
 <!--
 **DayUx/DayUx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
