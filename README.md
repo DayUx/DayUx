@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [wave <img src="https://avatars.githubusercontent.com/u/148754014?s=48&v=4" width="14">](https://www.linkedin.com/in/pcoignac/)
+- 🔭 I’m currently working on [wave <img src="https://avatars.githubusercontent.com/u/148754014?s=48&v=4" width="14">](https://github.com/wave-soft/wave)
 - 📫 How to reach me:
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24">](https://www.linkedin.com/in/pcoignac/)
 <!--
