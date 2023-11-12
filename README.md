@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-[My portfolio](https://the-best.engineer/)
+🔭 I’m currently working on [wave](https://www.linkedin.com/in/pcoignac/)
 
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32">](https://www.linkedin.com/in/pcoignac/)
+<img width="250" src="https://github.com/wave-soft/.github/raw/main/banniere.png">
 
 
-
+📫 How to reach me:
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24">](https://www.linkedin.com/in/pcoignac/)
 <!--
 **DayUx/DayUx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
