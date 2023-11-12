@@ -1,11 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on [wave](https://www.linkedin.com/in/pcoignac/)
-
-<img width="250" src="https://github.com/wave-soft/.github/raw/main/banniere.png">
-
-
-📫 How to reach me:
+- 🔭 I’m currently working on [wave <img src="https://avatars.githubusercontent.com/u/148754014?s=48&v=4" width="14">](https://www.linkedin.com/in/pcoignac/)
+- 📫 How to reach me:
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24">](https://www.linkedin.com/in/pcoignac/)
 <!--
 **DayUx/DayUx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
