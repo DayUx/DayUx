@@ -2,7 +2,7 @@
   <img src="https://profile-counter.glitch.me/dayux/count.svg?"  />
 </div>
 
-- 🔭 I’m currently working on [wave <img src="https://avatars.githubusercontent.com/u/148754014?s=48&v=4" width="14">](https://github.com/wave-soft/wave)
+- 🔭 I’m currently working on [subvision <img src="https://avatars.githubusercontent.com/u/148754014?s=48&v=4" width="14">](https://github.com/subvision-soft/subvision)
 
 ###
 
